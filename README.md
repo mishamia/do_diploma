@@ -1,0 +1,2 @@
+# do_diploma
+diplom
